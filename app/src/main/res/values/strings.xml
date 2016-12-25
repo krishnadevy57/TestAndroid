@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestAndroid</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="facebook_app_id">641212336080841</string>
+    <string name="fb_login_protocol_scheme">fb641212336080841</string>
+</resources>
